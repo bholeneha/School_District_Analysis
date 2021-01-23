@@ -32,8 +32,8 @@ Following are the results on how each of the seven school district metrics was a
 
 |           |          |
 |-----------|----------|        
-|District Summary With the Entire Data Set   |![Original School District Summary](Images/School_District_Summary_Original.png)|
-|District Summary after replacing THS Grade 9 scores with NaN|![New School District Summary](Images/School_District_Summary_Challenge.png)|
+|District Summary With the Entire Data Set   |![Original School District Summary](Images/School_District_Summary_Original.PNG)|
+|District Summary after replacing THS Grade 9 scores with NaN|![New School District Summary](Images/School_District_Summary_Challenge.PNG)|
 
 As shown in the table above, there is a very slight difference in the values for average scores, percentages and overall passing percentage. Therefore, the school district summary wasnt significantly affected by the changes made to the data. 
 
@@ -43,9 +43,9 @@ The summaries for schools in this DataFrame were unaffected except for Thomas Hi
 
 |    |    |
 |----|----|
-|THS school summary with original data set|![Original School Summary](Images/School_Summary_Original.png)|
-|After replacing THS 9th Grade Scores with NaN|![New School Summary](Images/School_Summary_Challenge.png)|
-|After removing THS 9th Grade Scores from the Analysis|![After removing Grade 9 from Total Student](Images/School_Summary_ChallengeAfter.png)|
+|THS school summary with original data set|![Original School Summary](Images/School_Summary_Original.PNG)|
+|After replacing THS 9th Grade Scores with NaN|![New School Summary](Images/School_Summary_Challenge.PNG)|
+|After removing THS 9th Grade Scores from the Analysis|![After removing Grade 9 from Total Student](Images/School_Summary_ChallengeAfter.PNG)|
 
 In the above comparison, it is evident that the changes in the data wouldve affected the performance summary for THS. THS's overall passing percentage was at 90.9 % before replacing the 9th grade values and dropped to 65% after. However, summary for THS was recalculated by disregarding the grade 9 scores entirely, which brought THS's overall passing percentage back up to 90.6 %.
  
@@ -62,8 +62,8 @@ In the above comparison, it is evident that the changes in the data wouldve affe
 
 |           |          |
 |-----------|----------|        
-|Scores by school type with the original data set   |![Original School Type Summary](Images/School_Type_Original.png)|
-|Scores by school type after replacing THS Grade 9 scores|![New School Type Summary](Images/School_Type_Challenge.png)|
+|Scores by school type with the original data set   |![Original School Type Summary](Images/School_Type_Original.PNG)|
+|Scores by school type after replacing THS Grade 9 scores|![New School Type Summary](Images/School_Type_Challenge.PNG)|
      
 
 ## Summary
