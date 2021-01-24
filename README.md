@@ -48,19 +48,20 @@ The summaries for schools in this DataFrame were unaffected except for Thomas Hi
 |After removing THS 9th grade scores from the analysis|![After removing Grade 9 from Total Student](Images/School_Summary_ChallengeAfter.PNG)|
 
 In the above comparison, it is evident that the changes in the data wouldve affected the performance summary for THS. THS's overall passing percentage was at 90.9 % before replacing the 9th grade values and dropped to 65% after. However, summary for THS was recalculated by disregarding the grade 9 scores entirely, which brought THS's overall passing percentage back up to 90.6 %.
- 
+
 [//]: # "How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?"
 
-
+###### The following analysis was conducted by omitting the Thomas High School's grade 9 scores from the analysis. 
+ 
 ### Math and Reading Scores by Grade
 | Math Scores | Reading Scores|
 |-------------|---------------|
-|![Math Scores by Grade after replacing 9th Grade Scores](Images/Math_Scores_by_Grade_New.PNG) | ![Reading Scores by Grade after replacing 9th Grade Scores](Images/Reading_Scores_by_Grade_New.PNG)| 
+|![Math Scores by Grade after replacing 9th Grade Scores](Images/Math_Scores_by_Grade_New.png) | ![Reading Scores by Grade after replacing 9th Grade Scores](Images/Reading_Scores_by_Grade_New.png)| 
 
 The results for math and reading scores by grade for each school remained unchanged except the scores for grade 9 for THS were replaced with NaN.
     
 ### Scores by School Spending
-![Scores by School Spending](Images/Scores_by_School_Spending.PNG)
+![Scores by School Spending](Images/Scores_by_School_Spending.png)
 
 The results (above image) for scores by school spending were unaffected by the changes in the data. 
 
@@ -75,7 +76,7 @@ The results (above image) for scores by school size were unaffected by the chang
 ![New School Type Summary](Images/School_Type_Challenge.PNG)
 
 The result for scores by school type was unaffected by the changes in the data.
-    
+
 
 ## Summary
 
