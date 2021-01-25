@@ -56,12 +56,12 @@ In the above comparison, it is evident that the changes in the data would've aff
 
 | Description  |  Screenshots       |
 |----|----|
-|School performance ranking with original data set|![Original School Performance](Images/School_Summary_Sorted_Original.png)|
-|After replacing THS 9th Grade Scores with NaN|![New School Performance](Images/School_Summary_Sorted_Challenge.png)|
-|After removing THS 9th grade scores from the analysis|![School Performance after removing THS Grade 9 scores](Images/School_Summary_Sorted_ChallengeAfter.png)|
+|School performance ranking with original data set|![Original School Performance](Images/School_Summary_Sorted_Original.PNG)|
+|After replacing THS 9th Grade Scores with NaN|![New School Performance](Images/School_Summary_Sorted_Challenge.PNG)|
+|After removing THS 9th grade scores from the analysis|![School Performance after removing THS Grade 9 scores](Images/School_Summary_Sorted_ChallengeAfter.PNG)|
 
 
-Relative to other schools, THS was in second place in regards to school performance in the district before the changes were made to the data set. After replacing THS's grade 9 scores with NaN, it fell to 8th place. However, after the THS grade 9 sstudents were removed from the analysis, THS climbed back to its original standing of second place. 
+Relative to other schools, THS was in second place in regards to school performance in the district before the changes were made to the data set. After replacing THS's grade 9 scores with NaN, it fell to 8th place. However, after the THS grade 9 students were removed from the analysis, THS climbed back to its original standing of second place. 
 
  
 ### Math and Reading Scores by Grade
@@ -75,7 +75,7 @@ The results for math and reading scores by grade for each school remained unchan
 ### Scores by School Spending
 ![Scores by School Spending](Images/Scores_by_School_Spending.png)
 
-The results (above image) for scores by school spending were unaffected by the changes in the data. 
+The results (above image) for scores by school spending were unaffected by the changes in the data. (Since the dataframe looked exactly the same, only the final screenshot is shared above.)
 
 ### Scores by School Size
 
@@ -92,8 +92,4 @@ The result for scores by school type was unaffected by the changes in the data. 
 
 ## Summary
 
-In conclusion, at a whole, the analysis was unaffected by the changes made to the data. The District Summary Results varied by 0.1 - 0.3 points to the original values, however this is insigficant since these changes dont affect the 
-
-
-Since, Thomas High School grade 9 students were dropped from the analysis, the 
-
+In conclusion, at a whole, the analysis was unaffected by the changes made to the data. The District Summary Results varied by 0.1 - 0.3 points to the original values, however this is insignificant since these changes did not affect remaining analysis. Schools retained their place in the school performance rankings and the analysis results for scores by school spending, size and type remained unaffected as well.  
