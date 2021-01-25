@@ -52,7 +52,7 @@ The summaries for schools in this DataFrame were unaffected except for Thomas Hi
 
 In the above comparison, it is evident that the changes in the data would've affected the performance summary for THS. THS's overall passing percentage was at 90.9 % before replacing the 9th grade values and dropped to 65% after. However, summary for THS was recalculated by disregarding the grade 9 scores entirely, which brought THS's overall passing percentage back up to 90.6 %. Therefore, the THS school summary also remained unaffected by the changes in the data set. 
 
-#### School Performance Standing
+### School Performance Standing
 
 | Description  |  Screenshots       |
 |----|----|
