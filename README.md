@@ -22,9 +22,9 @@ Software used: Python 3.7.6, Jupyter Notebooks
 
 Analysis Code: [PyCitySchools_Challenge](PyCitySchools_Challenge.ipynb)
 
-The scores for THS grade niners were replaced with NaNs. However, since this would've affected the analysis, thus THS grade 9 scores left out during the analysis. 
+The scores for THS grade niners were replaced with NaNs. However, since this would've affected the analysis, THS ninth grade students were removed during the analysis. 
 
-The total student count was recalculated by subtracting the number of ninth-grade students in Thomas High School from the total student count. This new total student count was used to conduct the analysis. 
+The total student count was recalculated by subtracting the number of THS ninth-grade students from the total student count. This new total student count was used to conduct the analysis. 
 
 ## Results
 
